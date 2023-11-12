@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Инфа для новой ветки");
         System.out.println("еще один комит");
+        System.out.println("траляляляля");
 
 
     }
